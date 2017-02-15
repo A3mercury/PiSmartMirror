@@ -4,7 +4,7 @@
 
 This is a personal project so I can mostly learn about the Raspberry-Pi(s) that I own but use for nothing. 
 
-#### Description
+### Description
 
 This app is the web endpoint for getting data to display on the mirror. The controller methods will simply validate a request for data and return a JSON object with everything you'll need for a widget.
 
